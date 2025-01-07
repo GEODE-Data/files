@@ -1,7 +1,7 @@
 [
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/files/wiki/images/geode_dark.svg?raw=true&sanitize=true"/>
-        <img src="/files/wiki/images/geode.svg?raw=true&sanitize=true" alt="geode_logo" width="70%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiki/GEODE-Data/files/images/geode_dark.svg"/>
+        <img src="https://raw.githubusercontent.com/wiki/GEODE-Data/files/images/geode.svg" alt="geode_logo" width="70%"/>
     </picture>
 ](https://www.geode.energy/)
 
