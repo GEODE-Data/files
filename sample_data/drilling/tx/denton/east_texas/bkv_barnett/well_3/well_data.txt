@@ -1,0 +1,96 @@
+Field,EAGLE
+Lease,EAGLE
+Well Number,4
+State,TX
+Formation/Reservoir,EAGLE FORD
+Initial Pressure Estimate (psi),5000
+Reservoir Temperature (deg F),235
+Net Pay (ft),74
+Wellbore Diameter (ft),0.7
+Porosity,0.063
+Water Saturation,0.27
+Oil Saturation,0.73
+Gas Saturation,0
+Gas Specific Gravity,0.92
+CO2,0.02038
+H2S,0
+N2,0.00193
+Condensate Yield (Bc/MMcf),
+Condensate Gravity (API),35.46
+Dew Point Pressure (psi),2122.19376286397
+Sep. Temperature (deg F),99.9999999999999
+Sep. Pressure (psi),100
+Oil Gravity (API),35.46
+Initial GOR (scf/bbl),557.902808684731
+Bubble Point Pressure (psi),2122.19376286397
+TVD (ft),7890.81
+Spacing,Unbounded
+# Stages,50
+# Clusters ,450
+# Clusters per Stage,9
+Pre-Refrac Completion # Stages,
+Pre-Refrac Completion # Clusters ,
+Initian Completion # Clusters per Stage,
+# of Total Proppant (Lbs),25267400
+Total Fluid (Bbls),577003
+Lateral Length (ft),7481
+Top Perf (ft),7958
+Bottom Perf (ft),15439
+Sandface Temp (deg F),234
+Static Wellhead Temp (deg F),60.0000000000001
+Configuration,Initial Config
+Production Path,Tubing
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),7500
+Casing ID 1 (in),4.778
+Casing Footage 1 (ft),15493
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),15493
+Configuration Change (Days Since First Prod),205
+Production Path,Gas Lift
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),7500
+Casing ID 1 (in),4.778
+Casing Footage 1 (ft),15493
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),15493
+Configuration Change (Days Since First Prod),
+Production Path,
+Pressure Loss Correlation,
+Tubing ID (in),
+Tubing OD (in),
+Tubing Depth (ft),
+Casing ID 1 (in),
+Casing Footage 1 (ft),
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),
+Configuration Change (Days Since First Prod),
+Production Path,
+Pressure Loss Correlation,
+Tubing ID (in),
+Tubing OD (in),
+Tubing Depth (ft),
+Casing ID 1 (in),
+Casing Footage 1 (ft),
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),
+Configuration Change (Days Since First Prod),
+Production Path,
+Pressure Loss Correlation,
+Tubing ID (in),
+Tubing OD (in),
+Tubing Depth (ft),
+Casing ID 1 (in),
+Casing Footage 1 (ft),
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),
+Description,Single unbounded well with modern completion design.

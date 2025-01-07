@@ -1,0 +1,96 @@
+Field,OSPREY
+Lease,OSPREY
+Well Number,1
+State,TX
+Formation/Reservoir,EAGLE FORD
+Initial Pressure Estimate (psi),5400
+Reservoir Temperature (deg F),225
+Net Pay (ft),78
+Wellbore Diameter (ft),0.7
+Porosity,0.063
+Water Saturation,0.26
+Oil Saturation,0.74
+Gas Saturation,0
+Gas Specific Gravity,0.9513
+CO2,0.0217
+H2S,0
+N2,0.0045
+Condensate Yield (Bc/MMcf),
+Condensate Gravity (API),37.29
+Dew Point Pressure (psi),1211.36960215077
+Sep. Temperature (deg F),100
+Sep. Pressure (psi),100
+Oil Gravity (API),37.29
+Initial GOR (scf/bbl),335.724436054631
+Bubble Point Pressure (psi),1211.36960215077
+TVD (ft),7638.6
+Spacing,1400
+# Stages,28
+# Clusters ,252
+# Clusters per Stage,9
+Pre-Refrac Completion # Stages,20
+Pre-Refrac Completion # Clusters ,60
+Initian Completion # Clusters per Stage,3
+# of Total Proppant (Lbs),13514540
+Total Fluid (Bbls),275579
+Lateral Length (ft),5883
+Top Perf (ft),8030
+Bottom Perf (ft),13913
+Sandface Temp (deg F),225
+Static Wellhead Temp (deg F),70
+Configuration,Initial Config
+Production Path,Casing
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),
+Tubing OD (in),
+Tubing Depth (ft),
+Casing ID 1 (in),4
+Casing Footage 1 (ft),13965
+Casing ID 2 (in),
+Casing Footage 2 (ft),
+Casing Depth (ft),13965
+Configuration Change (Days Since First Prod),64
+Production Path,Pumping
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),7022
+Casing ID 1 (in),6.276
+Casing Footage 1 (ft),7029
+Casing ID 2 (in),4
+Casing Footage 2 (ft),6936
+Casing Depth (ft),13965
+Configuration Change (Days Since First Prod),1101
+Production Path,Tubing
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),6764
+Casing ID 1 (in),4.67
+Casing Footage 1 (ft),6941
+Casing ID 2 (in),2.992
+Casing Footage 2 (ft),6307
+Casing Depth (ft),13248
+Configuration Change (Days Since First Prod),1302
+Production Path,Gas Lift
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),6825
+Casing ID 1 (in),4.67
+Casing Footage 1 (ft),6941
+Casing ID 2 (in),2.992
+Casing Footage 2 (ft),6307
+Casing Depth (ft),13248
+Configuration Change (Days Since First Prod),1602
+Production Path,Pumping
+Pressure Loss Correlation,Beggs & Brill
+Tubing ID (in),2.441
+Tubing OD (in),2.875
+Tubing Depth (ft),6764
+Casing ID 1 (in),4.67
+Casing Footage 1 (ft),6941
+Casing ID 2 (in),2.992
+Casing Footage 2 (ft),6307
+Casing Depth (ft),13248
+Description,Well began producing and was later recompleted with modern completion design.
