@@ -31,4 +31,4 @@ This project hosts the supporting data files needed for the project.  More infor
 
 While this project is intented for open access availability of all data files, there are restrictions on who should upload and manage the files.  Project InnerSpace will be responsible for the people who will be uploading and managing the data.  The Society of Petroleum Engineers will be responsible for repository setup, management, and moderation.  
 
-If you have been tasked with assisting with file management, jump to [The Data Management Guide](/files/wiki/Data-Management-Guide).
+If you have been tasked with assisting with file management, jump to [The Data Management Guide](https://github.com/GEODE-Data/files/wiki/Data-Management-Guide).
